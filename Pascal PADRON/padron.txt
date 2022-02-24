@@ -1,0 +1,6 @@
+﻿Cedula, Nombre, Edad, Sexo 
+123, Juan Manuel Garcia, 22, M
+456, Luis Perez, 35, M
+789, Paola Noelia Sanchez Martínez, 22, F
+101, Juan Jose Gonzales, 15, M
+112, Marta Ramirez, 80, F
