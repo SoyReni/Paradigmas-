@@ -1,0 +1,12 @@
+Dentista*15/10/2019 09:30:00*ninguna*false
+Entregar Tarae*18/10/2019 17:00:00*Puntualidad*false
+Reunion con el equipo*18/10/2019 19:30:00*Llevar dinero*false
+Almuerzo*20/10/2019 10:30:00*Llevar bebidas*false
+Tu cumpleaños*18/10/2019 00:01:00*ninguna*false
+Cita*25/10/2019 15:25:00*ninguna*false
+Parcial de Analisis*09/10/2019 13:30:00*Ecuaciones diferenciales*false
+Paseo*20/10/2019 10:30:00*Puntualidad*false
+Concierto de piano*01/11/2019 20:30:00*ninguna*false
+Cena en casa*03/11/2019 19:25:00*ninguna*false
+Parcial de Fisica*11/11/2019 15:30:00*Electricidad*false
+Consulta oftalmologo*21/11/2019 11:30:00*ninguna*false
